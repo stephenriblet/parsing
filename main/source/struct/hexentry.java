@@ -1,9 +1,9 @@
-public class hexentry implements {
+public class HexEntry implements {
   private String value;
-  public hexentry(){
+  public HexEntry(){
     value= "";
   }
-  public hexentry(String s){
+  public HexEntry(String s){
     value = s;
   }
   @overrides
