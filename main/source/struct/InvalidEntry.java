@@ -1,11 +1,10 @@
 public class InvalidEntry extends HexEntry{
   String value = '/DNE/';
   
-  public void InvalidEntry(){
+  public  InvalidEntry(){
   
   }
-  @overrides
-  public void InvalidEntry(String s){
+  public InvalidEntry(String s){
   
   }
 }
